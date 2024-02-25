@@ -88,7 +88,7 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 
-<hr>
+
 ### Program:
 ```
 import defaultdict
@@ -140,7 +140,7 @@ print(traversedpath)
 ### Output:
 ![image](https://github.com/kanishka2305/19AI405ExpNo2/assets/113497357/d5562f99-b2e1-49df-be8b-9993ca9adf90)
 ![image](https://github.com/kanishka2305/19AI405ExpNo2/assets/113497357/834c8138-26e7-4267-8c5c-19df3490515d)
-
+<hr>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
